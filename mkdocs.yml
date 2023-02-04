@@ -22,9 +22,6 @@
 site_name: Frabit
 site_url: https://www.frabit.tech
 site_author: Blylei
-site_description: >-
-  A comprehensive platform for database, provide backup/restore management、topology deployment and display,sql audit and so forth
-
 # Repository
 edit_uri: ""
 
