@@ -6,5 +6,3 @@ template: overrides/main.html
 
 Upgrade to the latest version with:
 
-
-# Medium platform matrix for Chinese 
