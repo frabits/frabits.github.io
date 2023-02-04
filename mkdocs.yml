@@ -155,17 +155,8 @@ markdown_extensions:
 # Page tree
 nav:
   - 首页: index.md
-  - 总览:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
+  - Community:
+    - Installation: tv-platform.md
   - Setup:
     - setup/index.md
     - Setup with binary file: setup/changing-the-fonts.md
