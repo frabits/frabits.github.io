@@ -151,7 +151,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - 首页: index.md
+  - Home: index.md
   - Community:
     - Installation: tv-platform.md
   - Setup:
@@ -179,7 +179,7 @@ nav:
     - Footnotes: document/footnotes.md
     - Formatting: document/formatting.md
     - MathJax: document/mathjax.md
-  - FAQ:
+  - Blog:
     - blog/index.md
     - 2021:
       - blog/2021/the-past-present-and-future.md
