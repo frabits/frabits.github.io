@@ -152,8 +152,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Community:
-    - index.md
+  - Community: index.md
   - Install:
     - setup/index.md
     - Setup with binary file: setup/changing-the-fonts.md
