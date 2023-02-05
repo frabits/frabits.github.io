@@ -152,18 +152,10 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Quickstart:
+      - getting-started.md
   - Community:
     - community/index.md
-  - Install:
-    - setup/index.md
-    - Setup with binary file: setup/changing-the-fonts.md
-    - Setup with rpm/deb package: setup/changing-the-language.md
-    - Linux Platform:
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-    - MacOS Platform:
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - Document:
     - document/index.md
     - Abbreviations: document/abbreviations.md
