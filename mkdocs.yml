@@ -154,7 +154,7 @@ nav:
   - Home: index.md
   - Community:
     - Installation: tv-platform.md
-  - Setup:
+  - Install:
     - setup/index.md
     - Setup with binary file: setup/changing-the-fonts.md
     - Setup with rpm/deb package: setup/changing-the-language.md
