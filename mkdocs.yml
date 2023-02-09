@@ -164,8 +164,7 @@ nav:
       - getting-started.md
   - Community:
     - community/index.md
-  - Download:
-    - download/index.md
+  - Download: download/index.md
   - Document:
     - document/index.md
     - Abbreviations: document/abbreviations.md
