@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-## Frabit 2.0.9
+## [Frabit 2.0.9](https://github.com/frabits/frabit/releases/tag/v2.0.9)
 | Filename | OS | Arch |Size|SHA256 CheckSum|
 |------|------|------|-----|------|
 | [frabit-agent-2.0.9.aarch64.rpm](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit-agent-2.0.9.aarch64.rpm)| Linux | ARM | 1.17kb |57fe4c92b29dd81fb80e4d8d2905d0b836f85c8865b3fbabc84ff4cdce1540e4      |
@@ -19,7 +19,7 @@ template: overrides/main.html
 | [frabit_2.0.9_darwin_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit-agent-2.0.9.aarch64.rpm)| darwin     |  ARM    | 1.17kb    |bb74dafe15e958d6a1c264fba75d559d07081ae39b2793e11f5eaab3cd337617      |
 
 
-## Frabit 2.0.8
+## [Frabit 2.0.8](https://github.com/frabits/frabit/releases/tag/v2.0.8)
 | Filename | OS | Arch |Size|SHA256 CheckSum|
 |------|------|------|-----|------|
 | [frabit-agent-2.0.8.aarch64.rpm](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit-agent-2.0.8.aarch64.rpm)| Linux     |  ARM    | 1.17kb    |57fe4c92b29dd81fb80e4d8d2905d0b836f85c8865b3fbabc84ff4cdce1540e4      |
