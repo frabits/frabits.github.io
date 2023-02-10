@@ -2,7 +2,11 @@
 template: overrides/main.html
 ---
 
-# Medium platform matrix for Chinese 
+# TV platform matrix for Chinese 
 
-Upgrade to the latest version with:
+Just scan below QRcode follow us
+![tv matrix](../assets/images/tv_matrix.jpg)
 
+
+# Mail list
+[mail list](https://groups.google.com/g/frabit)

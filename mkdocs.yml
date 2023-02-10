@@ -162,8 +162,6 @@ nav:
   - Home: index.md
   - Quickstart:
       - getting-started.md
-  - Community:
-    - community/index.md
   - Download: download/index.md
   - Document:
     - document/index.md
@@ -178,6 +176,8 @@ nav:
     - Footnotes: document/footnotes.md
     - Formatting: document/formatting.md
     - MathJax: document/mathjax.md
+  - Community:
+    - community/index.md
   - Blog:
     - blog/index.md
     - 2021:
