@@ -2,8 +2,8 @@
 template: overrides/main.html
 ---
 Currently,we just provide both Linux and darwin (aka macOS) platform precompiled binaries, include amd64 and arm64 architecture. For Linux
-platform, there are three format file for each architecture: rpm package、deb package and binary executable file; for darwin platform, 
-there are just binary executable file for each architecture.
+platform, there are three format files for each architecture: rpm package、deb package and binary executable file; for darwin platform, 
+there are just binary executable files for each architecture.
 
 
 ## [Frabit 2.0.9](https://github.com/frabits/frabit/releases/tag/v2.0.9)
