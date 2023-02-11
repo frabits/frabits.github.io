@@ -162,8 +162,7 @@ nav:
   - Home: index.md
   - Quickstart:
       - getting-started.md
-  - Download: download/index.md
-  - Document:
+  - Docs:
     - document/index.md
     - Abbreviations: document/abbreviations.md
     - Admonitions: document/admonitions.md
@@ -176,6 +175,7 @@ nav:
     - Footnotes: document/footnotes.md
     - Formatting: document/formatting.md
     - MathJax: document/mathjax.md
+  - Download: download/index.md
   - Community:
     - community/index.md
   - Blog:
