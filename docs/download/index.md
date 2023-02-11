@@ -19,8 +19,8 @@ there are just binary executable files for each architecture.
 | [frabit-server_2.0.9_arm64.deb](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit-server_2.0.9_arm64.deb)| Linux     |  ARM    | 1.17kb    |d0c4ede976880f65e3245ea7f829ac5445eb7575db0e0516c3807752db5a1fbc      |
 | [frabit_2.0.9_linux_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit_2.0.9_linux_amd64.tar.gz)| Linux     |  x86_64    | 1.17kb    |6d258dacb5d3a786a6b85a029251b8ce8a3b94d2c5be1323a5373a1f8158d944      |
 | [frabit_2.0.9_linux_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit_2.0.9_linux_arm64.tar.gz)| Linux     |  ARM    | 1.17kb    |8a9cb6492f76a27ae3b8618f0c869f2cbdd0abe4c88a1a9dbf0560b80a46cbb1      |
-| [frabit_2.0.9_darwin_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit_2.0.9_darwin_amd64.tar.gz)| darwin     |  x86_64    | 1.17kb    |a0d9e6fc1ecf7d21e51cfb480479191935022ae7169157ce9c2b3aaec06c4ea1      |
-| [frabit_2.0.9_darwin_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit-agent-2.0.9.aarch64.rpm)| darwin     |  ARM    | 1.17kb    |bb74dafe15e958d6a1c264fba75d559d07081ae39b2793e11f5eaab3cd337617      |
+| [frabit_2.0.9_darwin_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit_2.0.9_darwin_amd64.tar.gz)| darwin/MacOS     |  x86_64    | 1.17kb    |a0d9e6fc1ecf7d21e51cfb480479191935022ae7169157ce9c2b3aaec06c4ea1      |
+| [frabit_2.0.9_darwin_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.9/frabit-agent-2.0.9.aarch64.rpm)| darwin/MacOS     |  ARM    | 1.17kb    |bb74dafe15e958d6a1c264fba75d559d07081ae39b2793e11f5eaab3cd337617      |
 
 
 ## [Frabit 2.0.8](https://github.com/frabits/frabit/releases/tag/v2.0.8)
@@ -36,8 +36,8 @@ there are just binary executable files for each architecture.
 | [frabit-server_2.0.8_arm64.deb](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit-server_2.0.8_arm64.deb)| Linux     |  ARM    | 1.17kb    |d0c4ede976880f65e3245ea7f829ac5445eb7575db0e0516c3807752db5a1fbc      |
 | [frabit_2.0.8_linux_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit_2.0.8_linux_amd64.tar.gz)| Linux     |  x86_64    | 1.17kb    |6d258dacb5d3a786a6b85a029251b8ce8a3b94d2c5be1323a5373a1f8158d944      |
 | [frabit_2.0.8_linux_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit_2.0.8_linux_arm64.tar.gz)| Linux     |  ARM    | 1.17kb    |8a9cb6492f76a27ae3b8618f0c869f2cbdd0abe4c88a1a9dbf0560b80a46cbb1      |
-| [frabit_2.0.8_darwin_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit_2.0.8_darwin_amd64.tar.gz)| darwin     |  x86_64    | 1.17kb    |a0d9e6fc1ecf7d21e51cfb480479191935022ae7169157ce9c2b3aaec06c4ea1      |
-| [frabit_2.0.8_darwin_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit-agent-2.0.8.aarch64.rpm)| darwin     |  ARM    | 1.17kb    |bb74dafe15e958d6a1c264fba75d559d07081ae39b2793e11f5eaab3cd337617      |
+| [frabit_2.0.8_darwin_amd64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit_2.0.8_darwin_amd64.tar.gz)| darwin/MacOS     |  x86_64    | 1.17kb    |a0d9e6fc1ecf7d21e51cfb480479191935022ae7169157ce9c2b3aaec06c4ea1      |
+| [frabit_2.0.8_darwin_arm64.tar.gz](https://github.com/frabits/frabit/releases/download/v2.0.8/frabit-agent-2.0.8.aarch64.rpm)| darwin/MacOS     |  ARM    | 1.17kb    |bb74dafe15e958d6a1c264fba75d559d07081ae39b2793e11f5eaab3cd337617      |
 
 
 
