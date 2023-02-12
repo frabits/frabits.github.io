@@ -25,6 +25,10 @@ site_author: Blylei
 # Repository
 edit_uri: ""
 
+site_description: >-
+  Write your documentation in Markdown and create a professional static site in
+  minutes – searchable, customizable, for all devices
+
 # Copyright
 copyright: Copyright &copy; 2021-2023 Frabit LLC.
 
