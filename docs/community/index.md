@@ -2,11 +2,13 @@
 template: overrides/main.html
 ---
 
-# TV platform matrix for Chinese 
+# TV media matrix for chinese 
 
-Just scan below QRcode follow us
+Just scan below QR code follow us
+
 ![tv matrix](../assets/images/tv_matrix.jpg)
 
 
 # Mail list
-[mail list](https://groups.google.com/g/frabit)
+
+[Click here go to mail list](https://groups.google.com/g/frabit)
