@@ -12,3 +12,7 @@ Just scan below QR code follow us
 # Mail list
 
 [Click here go to mail list](https://groups.google.com/g/frabit)
+
+# Slack channel
+
+[Click here go to slack](https://frabits.slack.com)
